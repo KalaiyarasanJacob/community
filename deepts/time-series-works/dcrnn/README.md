@@ -44,3 +44,5 @@ src/run_preprocess.sh
 src/run_training.sh src/DCRNN/data/model/dcrnn_la.yaml
 ```
 The arguement is the config file, you may modify it or use a different config file. The command will output a log file in current directory.
+
+[Test run results](./results)
